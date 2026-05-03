@@ -1,8 +1,7 @@
 # 🇮🇳 Suicide Rates in India — 2021
 ### Cause-wise Distribution Analysis
 
-![Visualization](<img width="3640" height="3910" alt="suicide_india_2021" src="https://github.com/user-attachments/assets/051179e9-0063-4a16-b4a2-99e1c414a33e" />
-)
+![Visualization](<img width="3649" height="3910" alt="suicide_india_2021" src="https://github.com/user-attachments/assets/eb0dea99-974b-4a29-803c-9dbc58ead322" />
 
 ---
 
