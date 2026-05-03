@@ -1,5 +1,5 @@
 
-### Cause-wise Distribution Analysis
+## Cause-wise Distribution Analysis
 
 ![Visualization](<img width="3649" height="3910" alt="suicide_india_2021" src="https://github.com/user-attachments/assets/d0552d69-2902-48fb-87a4-7b5e0a66c90b" />
 
